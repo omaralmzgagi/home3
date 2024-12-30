@@ -54,7 +54,7 @@ class FirstPage extends StatelessWidget {
         ),
         centerTitle: true,
         title: const Text(
-          "omar",
+          "osama",
           textDirection: TextDirection.ltr,
           style: TextStyle(
             color: Colors.black,
